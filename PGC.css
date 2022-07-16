@@ -1,0 +1,23 @@
+body{
+    width: 270px;
+    background-image: url("psg files/background.jpg");
+   text-align: center;
+}
+h2{
+    font: 30px "Open Sans", sans-serif;
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color: darkred;
+    color: white;
+    font: 20px "Open Sans", sans-serif;
+    border-radius: 4px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: none;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: rgb(63, 144, 95);
+}
